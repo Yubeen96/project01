@@ -1,0 +1,22 @@
+7/27
+기본 사이즈 가로 1200px 100x12 그림사이 공간 30px
+뉴가이드 레이아웃 넘버 12 70 30 
+폰트 Noto Sans 만 사용
+1 3 4 5 7 900 크기 
+
+
+로고 왼쪽 상단 header
+width 100% height 500px visual section
+
+padding 100px 0 section #content
+#content figure*3 img
+
+padding 100px 0 section #banner text-align:center
+h2
+p
+
+padding 100px 0 sectoin #event
+#content figure*2 img
+ 
+footer
+&copy lee.
